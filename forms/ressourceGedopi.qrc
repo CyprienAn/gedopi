@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/zoom.png</file>
+    <file>icons/releve.png</file>
+    <file>icons/select.png</file>
+  </qresource>
+</RCC>
