@@ -1,0 +1,38 @@
+# This file contains metadata for your plugin. Since
+# version 2.0 of QGIS this is the proper way to supply
+# information about a plugin. The old method of
+# embedding metadata in __init__.py will
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Gedopi
+qgisMinimumVersion=3.0
+description=Plugin de gestion de données piscicoles et des baux de pêche
+version=2.0
+author=Cyprien Antignac
+email=.
+
+about=Plugin QGIS pour la Fédération de Pêche du Cantal. Permet la gestion des données de pêches électriques, suivis thermiques, inventaires de reproduction et des baux de pêche. Pour fonctionner ce plugin nécessite l'utilisation de la base de données PostgreSQL / PostGIS liée.
+
+tracker=.
+repository=https://framagit.org/CyprienA/gedopi
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=.
+
+homepage=.
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
