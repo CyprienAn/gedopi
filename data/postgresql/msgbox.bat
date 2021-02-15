@@ -1,0 +1,1 @@
+wscript msgbox.js %*
